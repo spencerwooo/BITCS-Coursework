@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/icon.svg" alt="icon" width="25%">
+<img src="assets/icon.svg" alt="icon" width="180px">
 </div>
 
 # BIT Catalog
@@ -20,6 +20,7 @@ An incomplete catalog of projects, classwork and more for classes in the school 
       - [第三章实验](#%E7%AC%AC%E4%B8%89%E7%AB%A0%E5%AE%9E%E9%AA%8C)
       - [第四章实验](#%E7%AC%AC%E5%9B%9B%E7%AB%A0%E5%AE%9E%E9%AA%8C)
   - [大三上](#%E5%A4%A7%E4%B8%89%E4%B8%8A)
+- [License 许可 <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" />](#license-%E8%AE%B8%E5%8F%AF-img-alt%22creative-commons-license%22-style%22border-width0%22-src%22httpsicreativecommonsorglby-sa4080x15png%22)
 
 # 内容
 
@@ -57,9 +58,17 @@ An incomplete catalog of projects, classwork and more for classes in the school 
 
 ## 大三上
 
+# License 许可 <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" />
+
+本作品采用 [知识共享署名-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-sa/4.0/) 进行许可。
+
+本著作係採用 [創用 CC 姓名標示-相同方式分享 4.0 國際 授權條款](https://creativecommons.org/licenses/by-sa/4.0/) 授權.
+
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
 ---
 
-🌈 **BIT Catalog ©Spencer Woo.** Released under the CC BY-NC-SA 4.0 International License.
+🌈 **BIT Catalog ©Spencer Woo.** Released under the CC BY-SA 4.0 International License.
 
 Authored and maintained by Spencer Woo.
 
