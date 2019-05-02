@@ -66,7 +66,7 @@
 
 ![](https://flat.badgen.net/badge/%E8%AF%BE%E7%A8%8B%E7%8A%B6%E6%80%81/%E5%B0%9A%E6%9C%AA%E7%BB%93%E8%AF%BE/pink?icon=terminal)
 
-> 此部分尚未公开。
+> 此部分尚未完整公开。
 
 #### 第三章实验
 
