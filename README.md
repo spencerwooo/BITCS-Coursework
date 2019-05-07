@@ -66,13 +66,15 @@
 
 ![](https://flat.badgen.net/badge/%E8%AF%BE%E7%A8%8B%E7%8A%B6%E6%80%81/%E5%B0%9A%E6%9C%AA%E7%BB%93%E8%AF%BE/pink?icon=terminal)
 
-> 此部分尚未完整公开。
-
 #### 第三章实验
 
 - 实验一、二和实验三的 Java 部分：[spencerwooo/CN-Data-Link-Layer](https://github.com/spencerwooo/CN-Data-Link-Layer)
 
 #### 第四章实验
+
+> 由于做这个实验的时候（2019 年 5 月），Java 抓包所依赖的 `pcap4j` 存在一些 bug（详见 [Pcap4j issue #220](https://github.com/kaitoy/pcap4j/issues/220)），因此我不得不延后一段时间开发 JavaFX 的图形界面版本，先使用命令行版本做展示。
+>
+> 但是由于时间后期充裕起来（老师比较墨迹），我有时间将 SNAPSHOT 版本的 `pcap4j` 库进行下载使用，使 GUI 的实现成为了可能。因此目前下面列表中的第一项是相对成熟的版本。命令行版本仅做参考。
 
 - 实验一的 Java 部分：[spencerwooo/CN-Packet-Sniffer](https://github.com/spencerwooo/CN-Packet-Sniffer)
 - 实验一的 Java 命令行版本：[spencerwooo/CN-Sniffer-CLI](https://github.com/spencerwooo/CN-Sniffer-CLI)
