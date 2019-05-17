@@ -46,7 +46,7 @@
 | 实验编号                 	| 参考链接                                                                                    	|
 |--------------------------	|---------------------------------------------------------------------------------------------	|
 |  实验一、编译 Linux 内核 	| 请直接参考搜索引擎                                                                          	|
-| 实验二、进程控制         	| [spencerwooo/exp2-process-control](https://github.com/spencerwooo/exp5-file-operation)      	|
+| 实验二、进程控制         	| [spencerwooo/exp2-process-control](https://github.com/spencerwooo/exp2-process-control)      	|
 | 实验三、生产者消费者问题 	| [spencerwooo/exp3-producer-consumer](https://github.com/spencerwooo/exp3-producer-consumer) 	|
 | 实验四、内存监视         	| [spencerwooo/exp4-memory-monitor](https://github.com/spencerwooo/exp4-memory-monitor)       	|
 | 实验五、复制文件         	| [spencerwooo/exp5-file-operation](https://github.com/spencerwooo/exp5-file-operation)       	|
