@@ -16,15 +16,22 @@
 - [目录](#%E7%9B%AE%E5%BD%95)
 - [内容与说明](#%E5%86%85%E5%AE%B9%E4%B8%8E%E8%AF%B4%E6%98%8E)
 - [大三下](#%E5%A4%A7%E4%B8%89%E4%B8%8B)
+  - [汇编语言与接口](#%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E4%B8%8E%E6%8E%A5%E5%8F%A3)
+    - [个人项目](#%E4%B8%AA%E4%BA%BA%E9%A1%B9%E7%9B%AE)
+    - [团队项目](#%E5%9B%A2%E9%98%9F%E9%A1%B9%E7%9B%AE)
   - [操作系统课程设计](#%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1)
   - [编译原理](#%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86)
+    - [语言认知实验](#%E8%AF%AD%E8%A8%80%E8%AE%A4%E7%9F%A5%E5%AE%9E%E9%AA%8C)
+    - [语言设计实验](#%E8%AF%AD%E8%A8%80%E8%AE%BE%E8%AE%A1%E5%AE%9E%E9%AA%8C)
+    - [词法分析实验](#%E8%AF%8D%E6%B3%95%E5%88%86%E6%9E%90%E5%AE%9E%E9%AA%8C)
+    - [语法分析实验](#%E8%AF%AD%E6%B3%95%E5%88%86%E6%9E%90%E5%AE%9E%E9%AA%8C)
   - [计算机网络](#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
     - [第三章实验](#%E7%AC%AC%E4%B8%89%E7%AB%A0%E5%AE%9E%E9%AA%8C)
     - [第四章实验](#%E7%AC%AC%E5%9B%9B%E7%AB%A0%E5%AE%9E%E9%AA%8C)
 - [大三上](#%E5%A4%A7%E4%B8%89%E4%B8%8A)
   - [软件工程基础](#%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E7%A1%80)
-    - [个人项目](#%E4%B8%AA%E4%BA%BA%E9%A1%B9%E7%9B%AE)
-    - [团队项目](#%E5%9B%A2%E9%98%9F%E9%A1%B9%E7%9B%AE)
+    - [个人项目](#%E4%B8%AA%E4%BA%BA%E9%A1%B9%E7%9B%AE-1)
+    - [团队项目](#%E5%9B%A2%E9%98%9F%E9%A1%B9%E7%9B%AE-1)
   - [数字图像处理](#%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86)
   - [计算机专业基础实习（小学期项目）](#%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E5%9F%BA%E7%A1%80%E5%AE%9E%E4%B9%A0%E5%B0%8F%E5%AD%A6%E6%9C%9F%E9%A1%B9%E7%9B%AE)
 - [大二下](#%E5%A4%A7%E4%BA%8C%E4%B8%8B)
@@ -39,6 +46,25 @@
 
 ## 大三下
 
+### 汇编语言与接口
+
+![](https://flat.badgen.net/badge/%E8%AF%BE%E7%A8%8B%E7%8A%B6%E6%80%81/%E5%B0%9A%E6%9C%AA%E7%BB%93%E8%AF%BE/pink?icon=terminal)
+
+> 汇编语言与接口课程的作业项目共有下面两个：
+>
+> - 个人项目：①大数乘法 ②实现一个简易计算器
+> - 团队项目：设计实现一个小游戏（比如贪吃蛇等）
+
+#### 个人项目
+
+> 这部分尚未完成，暂时不公开。
+
+#### 团队项目
+
+> 由于汇编直接撰写 GUI 太麻烦，我们小组选择使用 WPF 实现客户端，用汇编来实现核心业务逻辑。下面是客户端部分的源码。
+
+小组项目「推箱子」： [spencerwooo/SokobanGame](https://github.com/spencerwooo/SokobanGame)
+
 ### 操作系统课程设计
 
 ![](https://flat.badgen.net/badge/%E8%AF%BE%E7%A8%8B%E7%8A%B6%E6%80%81/%E5%B7%B2%E7%BB%8F%E7%BB%93%E8%AF%BE/cyan?icon=terminal)
@@ -50,17 +76,35 @@
 | 实验三、生产者消费者问题 	| [spencerwooo/exp3-producer-consumer](https://github.com/spencerwooo/exp3-producer-consumer) 	|
 | 实验四、内存监视         	| [spencerwooo/exp4-memory-monitor](https://github.com/spencerwooo/exp4-memory-monitor)       	|
 | 实验五、复制文件         	| [spencerwooo/exp5-file-operation](https://github.com/spencerwooo/exp5-file-operation)       	|
-| 实验六、综合实验         	| -                                                                                           	|
+| 实验六、综合实验         	| [spencerwooo/bank-simulation-client](https://github.com/spencerwooo/bank-simulation-client)   	|
+
+其中最后的综合实验是开放式选题，小组合作项目。我负责的客户端部分给出了公开，后端 API 以及其他部分不公开。具体详细的课程要求请参考老师给出的参考文档。
 
 ### 编译原理
 
 ![](https://flat.badgen.net/badge/%E8%AF%BE%E7%A8%8B%E7%8A%B6%E6%80%81/%E5%B0%9A%E6%9C%AA%E7%BB%93%E8%AF%BE/pink?icon=terminal)
 
-| 实验编号     	| 参考链接                                                                                                	|
-|--------------	|---------------------------------------------------------------------------------------------------------	|
-| 语言认知实验 	| [spencerwooo/compilers-lang-recognization](https://github.com/spencerwooo/compilers-lang-recognization) 	|
-| 语言设计实验 	| 未涉及到代码                                                                                            	|
-| 词法分析实验 	| [spencerwooo/lexical-analysis](https://github.com/spencerwooo/lexical-analysis)                         	|
+#### 语言认知实验
+
+- [spencerwooo/compilers-lang-recognization](https://github.com/spencerwooo/compilers-lang-recognization)
+
+#### 语言设计实验
+
+> 这部分实验未涉及到代码内容，文字报告不做公开。
+
+- 未涉及到代码。
+
+#### 词法分析实验
+
+> 从这里开始，设计实现的代码需要和 [BIT-MiniCC](https://github.com/jiweixing/bit-minic-compiler) 结合，嵌入框架中。具体使用详情见老师给出的参考文档，这里不做过多说明。
+
+- [spencerwooo/lexical-analysis](https://github.com/spencerwooo/lexical-analysis)
+
+#### 语法分析实验
+
+> 由于时间原因，语法分析实验中我选用的 C 语言部分文法并不完全、测试用例并不全面。因此语法分析实验的代码存在一些瑕疵。请仔细阅读源码后再做参考。
+
+- [spencerwooo/syntactic-analysis](https://github.com/spencerwooo/syntactic-analysis)
 
 ### 计算机网络
 
