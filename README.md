@@ -48,7 +48,8 @@
 
 ### 汇编语言与接口
 
-![](https://flat.badgen.net/badge/%E8%AF%BE%E7%A8%8B%E7%8A%B6%E6%80%81/%E5%B0%9A%E6%9C%AA%E7%BB%93%E8%AF%BE/pink?icon=terminal)
+<!---![](https://flat.badgen.net/badge/%E8%AF%BE%E7%A8%8B%E7%8A%B6%E6%80%81/%E5%B0%9A%E6%9C%AA%E7%BB%93%E8%AF%BE/pink?icon=terminal)--->
+![](https://flat.badgen.net/badge/%E8%AF%BE%E7%A8%8B%E7%8A%B6%E6%80%81/%E5%B7%B2%E7%BB%8F%E7%BB%93%E8%AF%BE/cyan?icon=terminal)
 
 > 汇编语言与接口课程的作业项目共有下面两个：
 >
@@ -57,7 +58,10 @@
 
 #### 个人项目
 
-> 这部分尚未完成，暂时不公开。
+> 这两个项目都有所借鉴，并非我自己完全从头开始的。
+
+- 大数乘法：[spencerwooo/asm-big-num-multiply](https://github.com/spencerwooo/asm-big-num-multiply)
+- 简易计算器：[spencerwooo/assembly-calculator](https://github.com/spencerwooo/assembly-calculator)
 
 #### 团队项目
 
@@ -82,7 +86,7 @@
 
 ### 编译原理
 
-![](https://flat.badgen.net/badge/%E8%AF%BE%E7%A8%8B%E7%8A%B6%E6%80%81/%E5%B0%9A%E6%9C%AA%E7%BB%93%E8%AF%BE/pink?icon=terminal)
+![](https://flat.badgen.net/badge/%E8%AF%BE%E7%A8%8B%E7%8A%B6%E6%80%81/%E5%B7%B2%E7%BB%8F%E7%BB%93%E8%AF%BE/cyan?icon=terminal)
 
 #### 语言认知实验
 
@@ -108,7 +112,7 @@
 
 ### 计算机网络
 
-![](https://flat.badgen.net/badge/%E8%AF%BE%E7%A8%8B%E7%8A%B6%E6%80%81/%E5%B0%9A%E6%9C%AA%E7%BB%93%E8%AF%BE/pink?icon=terminal)
+![](https://flat.badgen.net/badge/%E8%AF%BE%E7%A8%8B%E7%8A%B6%E6%80%81/%E5%B7%B2%E7%BB%8F%E7%BB%93%E8%AF%BE/cyan?icon=terminal)
 
 #### 第三章实验
 
@@ -122,6 +126,10 @@
 
 - 实验一的 Java 部分：[spencerwooo/CN-Packet-Sniffer](https://github.com/spencerwooo/CN-Packet-Sniffer)
 - 实验一的 Java 命令行版本：[spencerwooo/CN-Sniffer-CLI](https://github.com/spencerwooo/CN-Sniffer-CLI)
+
+#### 第五章实验 3、4
+
+- [spencerwooo/CN-Distance-Vector-Algorithm](https://github.com/spencerwooo/CN-Distance-Vector-Algorithm)
 
 ## 大三上
 
