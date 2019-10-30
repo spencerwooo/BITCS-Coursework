@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/icon.svg" alt="icon" width="180px">
+<!-- <img src="assets/icon.svg" alt="icon" width="180px"> -->
 
 <h1>BITCS Coursework</h1>
 
