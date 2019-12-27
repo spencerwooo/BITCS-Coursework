@@ -1,21 +1,18 @@
-<div align="center">
-<!-- <img src="assets/icon.svg" alt="icon" width="180px"> -->
+<img src="https://i.loli.net/2019/12/27/CkZcpNHW5h7eQfx.png" alt="icon" width="160px" align="right">
 
 <h1>BITCS Coursework</h1>
 
+![](https://flat.badgen.net/badge/BITCS/Coursework/blue?icon=awesome)
+![](https://flat.badgen.net/badge/Written/with%20love/cyan)
+![](https://flat.badgen.net/badge/Licensed%20under/CC-BY-SA-4.0/red)
+
 <h4>不完整北京理工大学计算机学院课程项目资料清单</h4>
 
-<em>An incomplete list of BIT School of Computer Science's coursework references</em>
+*An incomplete list of BIT School of Computer Science's coursework references*
 
-![](https://flat.badgen.net/badge/BITCS/Coursework/blue?icon=awesome)
-![](https://flat.badgen.net/badge/BUILT/with%20love/cyan)
-![](https://flat.badgen.net/badge/license/CC-BY-SA-4.0/red)
+<h2>目录</h2>
 
-</div>
-
-## 目录
-
-- [目录](#%e7%9b%ae%e5%bd%95)
+<details>
 - [内容与说明](#%e5%86%85%e5%ae%b9%e4%b8%8e%e8%af%b4%e6%98%8e)
 - [大四上](#%e5%a4%a7%e5%9b%9b%e4%b8%8a)
   - [计算机组成原理课程设计 / 汇编语言与接口课程设计（小学期）](#%e8%ae%a1%e7%ae%97%e6%9c%ba%e7%bb%84%e6%88%90%e5%8e%9f%e7%90%86%e8%af%be%e7%a8%8b%e8%ae%be%e8%ae%a1--%e6%b1%87%e7%bc%96%e8%af%ad%e8%a8%80%e4%b8%8e%e6%8e%a5%e5%8f%a3%e8%af%be%e7%a8%8b%e8%ae%be%e8%ae%a1%e5%b0%8f%e5%ad%a6%e6%9c%9f)
@@ -23,7 +20,6 @@
     - [小组项目](#%e5%b0%8f%e7%bb%84%e9%a1%b9%e7%9b%ae)
     - [说明文档](#%e8%af%b4%e6%98%8e%e6%96%87%e6%a1%a3)
   - [计算机网络课程设计](#%e8%ae%a1%e7%ae%97%e6%9c%ba%e7%bd%91%e7%bb%9c%e8%af%be%e7%a8%8b%e8%ae%be%e8%ae%a1)
-  - [软件工程课程设计](#%e8%bd%af%e4%bb%b6%e5%b7%a5%e7%a8%8b%e8%af%be%e7%a8%8b%e8%ae%be%e8%ae%a1)
 - [大三下](#%e5%a4%a7%e4%b8%89%e4%b8%8b)
   - [汇编语言与接口](#%e6%b1%87%e7%bc%96%e8%af%ad%e8%a8%80%e4%b8%8e%e6%8e%a5%e5%8f%a3)
     - [个人项目](#%e4%b8%aa%e4%ba%ba%e9%a1%b9%e7%9b%ae-1)
@@ -47,6 +43,8 @@
 - [大二下](#%e5%a4%a7%e4%ba%8c%e4%b8%8b)
   - [Android 技术开发基础](#android-%e6%8a%80%e6%9c%af%e5%bc%80%e5%8f%91%e5%9f%ba%e7%a1%80)
 - [License 许可](#license-%e8%ae%b8%e5%8f%af)
+</details>
+
 
 ## 内容与说明
 
@@ -77,10 +75,6 @@
 完整的过程陈述和说明文档：[Build Your PC | 辛苦三星期，造台计算机！](https://zanpu.spencerwoo.com/)
 
 ### 计算机网络课程设计
-
-![](https://flat.badgen.net/badge/%E8%AF%BE%E7%A8%8B%E7%8A%B6%E6%80%81/%E5%B0%9A%E6%9C%AA%E7%BB%93%E8%AF%BE/pink?icon=terminal)
-
-### 软件工程课程设计
 
 ![](https://flat.badgen.net/badge/%E8%AF%BE%E7%A8%8B%E7%8A%B6%E6%80%81/%E5%B0%9A%E6%9C%AA%E7%BB%93%E8%AF%BE/pink?icon=terminal)
 
