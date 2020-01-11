@@ -77,7 +77,20 @@
 
 ### 计算机网络课程设计
 
-![](https://flat.badgen.net/badge/%E8%AF%BE%E7%A8%8B%E7%8A%B6%E6%80%81/%E5%B0%9A%E6%9C%AA%E7%BB%93%E8%AF%BE/pink?icon=terminal)
+<!-- ![](https://flat.badgen.net/badge/%E8%AF%BE%E7%A8%8B%E7%8A%B6%E6%80%81/%E5%B0%9A%E6%9C%AA%E7%BB%93%E8%AF%BE/pink?icon=terminal) -->
+
+![](https://flat.badgen.net/badge/%E8%AF%BE%E7%A8%8B%E7%8A%B6%E6%80%81/%E5%B7%B2%E7%BB%8F%E7%BB%93%E8%AF%BE/cyan?icon=terminal)
+
+> 计算机网络课程设计包含有：
+>
+> 1. 编程任务：7 个
+> 2. 网络设备配置：3 个（实验报告，非代码项目。）
+> 3. H3C 模拟器：3 个（实验报告，非代码项目。）
+> 4. 调研报告：1 个（实验报告，非代码项目。）
+>
+> 其中，7 个小编程任务每个任务需要由 C/C++、Java 和 Python 三种类型语言进行实现，我们小组是 6 位同学分配共 21 个项目进行各自编写的。下面是 7 个小编程任务的源代码仓库。
+
+7 个小实验：[zan-net/lab-exercise](https://github.com/zan-net/lab-exercise)
 
 ## 大三下
 
