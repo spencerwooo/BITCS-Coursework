@@ -111,11 +111,19 @@
 - 大数乘法：[spencerwooo/asm-big-num-multiply](https://github.com/spencerwooo/asm-big-num-multiply)
 - 简易计算器：[spencerwooo/assembly-calculator](https://github.com/spencerwooo/assembly-calculator)
 
+>@taskmgr:我也放份我的。计算器是基于修改的ACLLIB开发，可能对同学们的参考价值有限（？）
+
+- 简易计算器2：[ taskmgr/assembly_calc](https://github.com/taskmgr/assembly_calc_-)
+
 #### 团队项目
 
 > 由于汇编直接撰写 GUI 太麻烦，我们小组选择使用 WPF 实现客户端，用汇编来实现核心业务逻辑。下面是客户端部分的源码。
 
 小组项目「推箱子」： [spencerwooo/SokobanGame](https://github.com/spencerwooo/SokobanGame)
+
+> @taskmgr：我也来放一下我们小组作业的链接，提供一个参考。游戏基于我们小组自己定制的ACLLIB库（C）开发，游戏代码全部使用汇编实现。
+
+小组项目「见缝插针」：[taskmgr/simple_game](https://github.com/taskmgr/simple_game)
 
 ### 操作系统课程设计
 
